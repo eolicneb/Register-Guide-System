@@ -1,0 +1,2 @@
+# Register-Guide-System
+A web cam is used to track the movemento of four color patches upon a white background. This action is the core of any offset printing system, where the the register of the four inks used must be adjusted so that they overlap perfectly. While heavy analog devices were used in the past, actual computational capabilities make it possble to be implemented with just a few lines of code.
